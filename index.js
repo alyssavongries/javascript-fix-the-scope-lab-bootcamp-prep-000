@@ -26,5 +26,5 @@ function funkyFunction() {
 // NOTE: you only need to modify the code below this line.
 
 function theFunk() {
-  returns funkyFunction();
+  return funkyFunction();
 }
